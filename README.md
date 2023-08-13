@@ -1,1 +1,2 @@
-# Recession_Analysis
+# Recession Analysis
+Recession Analysis is crucial in understanding economic downturns caused by low money circulation, reduced consumer spending, and negative impacts on businesses. It is a comprehensive analysis of recession trends using Python and the Plotly visualization library. The project focuses on understanding and visualizing recession data, including GDP growth, recession periods, duration, and severity. Through step-by-step code snippets and visualizations, users can gain valuable insights into economic fluctuations.
